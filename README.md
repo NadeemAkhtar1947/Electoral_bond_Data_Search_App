@@ -66,10 +66,7 @@ pip install streamlit pandas plotly seaborn matplotlib
 
 ## 📬 Contact & Support
 Connect with me for feedback or contributions:
-- **🔗 [LinkedIn](https://www.linkedin.com/in/nadeem-akhtar-/)** | **🐙 [GitHub](https://github.com/NadeemAkhtar1947)**
-- 
-- **📊 [Kaggle](https://www.kaggle.com/mdnadeemakhtar/code)**
-- **🌎 [Portfolio](https://nsde.netlify.app/)**
+- **🔗 [LinkedIn](https://www.linkedin.com/in/nadeem-akhtar-/)** | **🐙 [GitHub](https://github.com/NadeemAkhtar1947)** | **📊 [Kaggle](https://www.kaggle.com/mdnadeemakhtar/code)** | **🌎 [Portfolio](https://nsde.netlify.app/)**
 
 🚀 **Developed by Nadeem Akhtar** | 📅 **Copyright © 2024**
 
