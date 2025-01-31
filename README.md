@@ -69,6 +69,6 @@ Connect with me for feedback or contributions:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-akhtar-/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadeemAkhtar1947)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mdnadeemakhtar/code)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://nsde.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://nsde.netlify.app/)!]
 🚀 **Developed by Nadeem Akhtar** | 📅 **Copyright © 2024**
 
