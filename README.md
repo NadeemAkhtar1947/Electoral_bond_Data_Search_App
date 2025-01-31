@@ -56,8 +56,8 @@ pip install streamlit pandas plotly seaborn matplotlib
    ```
 
 ## 📷 Output Example
-![App Screenshot](output_image.png)
 <img width="959" alt="1" src="https://github.com/user-attachments/assets/c75305fc-8bfd-455b-ab2a-8d36bd21c64b" />
+<img width="960" alt="2" src="https://github.com/user-attachments/assets/0c11301a-f447-40f4-adeb-13b4bb74c221" />
 
 ## 🔮 Future Enhancements
 - Implement **machine learning models** for predictive analysis.
