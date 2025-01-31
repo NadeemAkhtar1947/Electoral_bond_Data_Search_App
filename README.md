@@ -68,6 +68,12 @@ pip install streamlit pandas plotly seaborn matplotlib
 <img width="959" alt="1" src="https://github.com/user-attachments/assets/c75305fc-8bfd-455b-ab2a-8d36bd21c64b" />
 <img width="960" alt="2" src="https://github.com/user-attachments/assets/0c11301a-f447-40f4-adeb-13b4bb74c221" />
 
+## Live Demo 🚀
+
+Here are links to have a look at the app in action:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00599C?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://electoral-bond-data-search-app.streamlit.app/)
+
 ## 🔮 Future Enhancements
 
 - Implement **machine learning models** for predictive analysis.
